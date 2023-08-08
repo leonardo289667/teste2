@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+}
+
+p{
+    font-size: 40px;
+}
+
+option{
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+    font-size: 40px;
+}
+.turno{
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+    font-size: 40px;
+}
+
